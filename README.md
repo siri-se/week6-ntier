@@ -40,7 +40,7 @@ week6-ntier/
 
 ## 👨‍💻 Author
 
-[Your Name] - ENGSE207 Week 6
+นายสิริ รัตนรินทร์ - ENGSE207 Week 6
 ```
 
 ---
@@ -84,3 +84,4 @@ pm2 show taskboard-api
 ```
 
 ---
+
