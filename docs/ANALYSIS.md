@@ -456,8 +456,8 @@ curl -k https://taskboard.local/api/tasks)
 
 ## 🔗 Links
 
-- **GitHub Repository:** _______________________
-- **VM IP Address:** _______________________
+- **GitHub Repository:** https://github.com/siri-se/week6-ntier.git
+- **VM IP Address:** 192.168.56.102
 - **API Endpoint:** https://taskboard.local/api
 
 ---
